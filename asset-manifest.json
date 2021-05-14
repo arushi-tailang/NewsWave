@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/newswave/static/css/main.39927e44.chunk.css",
+    "main.js": "/newswave/static/js/main.a598a33c.chunk.js",
+    "main.js.map": "/newswave/static/js/main.a598a33c.chunk.js.map",
+    "runtime-main.js": "/newswave/static/js/runtime-main.c1519ad5.js",
+    "runtime-main.js.map": "/newswave/static/js/runtime-main.c1519ad5.js.map",
+    "static/js/2.640e08df.chunk.js": "/newswave/static/js/2.640e08df.chunk.js",
+    "static/js/2.640e08df.chunk.js.map": "/newswave/static/js/2.640e08df.chunk.js.map",
+    "static/js/3.7019ea39.chunk.js": "/newswave/static/js/3.7019ea39.chunk.js",
+    "static/js/3.7019ea39.chunk.js.map": "/newswave/static/js/3.7019ea39.chunk.js.map",
+    "index.html": "/newswave/index.html",
+    "static/css/main.39927e44.chunk.css.map": "/newswave/static/css/main.39927e44.chunk.css.map",
+    "static/js/2.640e08df.chunk.js.LICENSE.txt": "/newswave/static/js/2.640e08df.chunk.js.LICENSE.txt",
+    "static/media/Nlogo1.25347c5f.png": "/newswave/static/media/Nlogo1.25347c5f.png",
+    "static/media/App.css": "/newswave/static/media/white.914cb53a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1519ad5.js",
+    "static/js/2.640e08df.chunk.js",
+    "static/css/main.39927e44.chunk.css",
+    "static/js/main.a598a33c.chunk.js"
+  ]
+}
