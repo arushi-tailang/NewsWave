@@ -1,4 +1,3 @@
-
 import axios from 'axios';
 import { useEffect, useState } from 'react';
 import './App.css';
@@ -17,7 +16,7 @@ function App() {
 
  const newsApi = async () => {
   try {
-      const news = await axios.get(`https://newsapi.org/v2/top-headlines?country=in&apiKey=e1b087c018514ffaa32af6e6112f8b0e&category=${category}&pageSize=${loadMore}`);
+      const news = await axios.get(`https://saurav.tech/NewsAPI/top-headlines/category/${category}/in.json`);
      
       setNewsArray(news.data.articles);
       setNewsResults(news.data.totalResults)
