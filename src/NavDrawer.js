@@ -55,7 +55,7 @@ export default function SwipeableTemporaryDrawer({setCategory}) {
         {categories.map((text, index) => (
           <ListItem button key={text} onClick={() => setCategory(text)} >
           
-            <ListItemText primary={text} />
+            <ListItemText className='uppercase' primary={text} />
           </ListItem>
         ))}
       </List>
