@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">NewsWave</h1>
-<h2>
+<h2 align="center">
   <a href="https://arushi-tailang.github.io/NewsWave/">[LIVE APP]</a>
 </h2>  </p>
 
